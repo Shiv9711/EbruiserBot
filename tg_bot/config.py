@@ -12,10 +12,10 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = "YOUR BOT TOKEN HERE"
-    OWNER_ID = "YOUR OWN ID HERE"  # If you dont know, run the bot and do /id in your private chat with it
-    OWNER_USERNAME = "YOUR USERNAME HERE"  #Just write it without the @ ex "Sawada"
-    SUPPORT_CHAT = "No Support Chat exists" # Your telegram support chat username, must have the "@" Example: @MyBotSupportGroupChat
+    API_KEY = "1324506727:AAEnbiMns9ZLX-pBUyrvx9YFsIUUwi7jcu8"
+    OWNER_ID = "797768146"  # If you dont know, run the bot and do /id in your private chat with it
+    OWNER_USERNAME = "HEROGAMERS1"  #Just write it without the @ ex "Sawada"
+    SUPPORT_CHAT = "@Eaglehacker" # Your telegram support chat username, must have the "@" Example: @MyBotSupportGroupChat
 
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = 'sqldbtype://username:pw@hostname:port/db_name'  # needed for any database modules
