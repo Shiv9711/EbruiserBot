@@ -2,7 +2,7 @@
    "addons": [
       {
          "options": {
-            "version": "9.5"
+            "version": "10"
          },
          "plan": "heroku-postgresql"
       }
@@ -38,11 +38,11 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "792109647"
+         "value": "797768146"
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "sushantgirdhar"
+         "value": "HEROGAMERS1"
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -54,7 +54,7 @@
       },
       "TIME_API_KEY": {
          "description": "Get one from https://timezonedb.com/register",
-         "value": "-xyz"
+         "value": "2NPS4R9Y7N3Z"
       },
       "PORT": {
          "description": "Port to use for your webhooks.",
@@ -68,7 +68,7 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "871552081"
+         "value": "978048105"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
@@ -78,17 +78,17 @@
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "871552081"
+         "value": "97804810"
       },
       "TOKEN": {
          "description": "Your bot token.",
          "required": true,
-         "value": ""
+         "value": "1324506727:AAEnbiMns9ZLX-pBUyrvx9YFsIUUwi7jcu8"
       },
       "SUPPORT_CHAT": {
          "description": "DO NOT EDIT THIS , IF EDITED , BOT WON'T RUN , GET SOME BRAIN SIR . AFTER THAT DO NOT REPORT TO US ,KEK",
          "required": false,
-         "value": "@ebruiser"
+         "value": "@Eaglehacker"
       },   
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
